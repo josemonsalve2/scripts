@@ -5,6 +5,7 @@ the file without that particular tag.
  
 ## Use
 
+```
 usage: removeTag.py [-h] [-r] [-d] -t TAG [-c TAG_CLASS] [-i TAG_ID]
                     FILES [FILES ...]
 
@@ -20,4 +21,4 @@ optional arguments:
                         class of the tag to be removed
   -i TAG_ID, --tag-id TAG_ID
                         id of the tag to be removed
-
+```
